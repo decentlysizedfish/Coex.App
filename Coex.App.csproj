@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="lib/Coex.Queries/Coex.Queries.csproj" />
+  </ItemGroup>
+
 </Project>

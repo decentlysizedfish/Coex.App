@@ -1,3 +1,3 @@
-[submodule "lib/Coex.Query"]
-	path = lib/Coex.Query
+[submodule "lib/Coex.Queries"]
+	path = lib/Coex.Queries
 	url = https://github.com/decentlysizedfish/Coex.Queries.git
